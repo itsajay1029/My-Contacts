@@ -1,0 +1,25 @@
+.c1{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.c1 input{
+    padding: 5px;
+    width: 75%;
+}
+
+.c1 button{
+    padding: 5px;
+    width: 20%;
+    background-color: black;
+
+}
+
+.c1 button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
